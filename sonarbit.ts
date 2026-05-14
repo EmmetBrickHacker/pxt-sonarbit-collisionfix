@@ -23,7 +23,7 @@ namespace sonarbit {
     /**
     * get Ultrasonic distance
     */
-    //% blockId=sonarbit block="Ultrasonic distance in unit %distance_unit |at|pin %pin"
+    //% blockId=octopus_sonarbit block="Ultrasonic distance in unit %distance_unit |at|pin %pin"
     //% weight=10
     export function sonarbit_distance(distance_unit: Distance_Unit, pin: DigitalPin): number {
 
