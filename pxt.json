@@ -1,7 +1,7 @@
 {
-    "name": "sonarbit",
+    "name": "ELECFREAKS Octopus Sonar:bit",
     "version": "2.0.0",
-    "description": "ELECFREAKS sonarbit with fixed name collision",
+    "description": "ELECFREAKS Octopus Sonar:bit with fixed name collision",
     "license": "MIT",
     "dependencies": {
         "core": "*"
